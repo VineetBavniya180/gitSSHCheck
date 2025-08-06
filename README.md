@@ -63,7 +63,7 @@ you can `escape` it by enclosing the word or phrase in double backticks
 
 ```
 
-``Use `code` in your Markdown file.``
+Use `code` in your Markdown file.
 
 
 ## image 
