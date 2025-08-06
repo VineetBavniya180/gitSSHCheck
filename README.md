@@ -74,3 +74,10 @@ you can `escape` it by enclosing the word or phrase in double backticks
 ## Link 
 
 This is my Github Account [GitHub Link](https://github.com/VineetBavniya180/gitSSHCheck).
+
+
+## URLs and Email Addresses
+```
+<https://github.com/VineetBavniya180/gitSSHCheck>
+<fake@email.com>
+```
