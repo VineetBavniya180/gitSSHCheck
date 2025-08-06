@@ -64,3 +64,7 @@ you can `escape` it by enclosing the word or phrase in double backticks
 ```
 
 ``Use `code` in your Markdown file.``
+
+
+## image 
+![anime image ](/images/anime.jpg)
