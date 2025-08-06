@@ -68,4 +68,4 @@ you can `escape` it by enclosing the word or phrase in double backticks
 
 ## image 
 
-![anime image ](/images/anime.jpg)
+![anime image ](/images/test.png)
