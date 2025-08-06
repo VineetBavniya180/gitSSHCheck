@@ -77,7 +77,5 @@ This is my Github Account [GitHub Link](https://github.com/VineetBavniya180/gitS
 
 
 ## URLs and Email Addresses
-```
-<https://github.com/VineetBavniya180/gitSSHCheck>
-<fake@email.com>
-```
+    <https://github.com/VineetBavniya180/gitSSHCheck>  
+    <fake@email.com>
